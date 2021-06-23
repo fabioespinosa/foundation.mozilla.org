@@ -221,7 +221,7 @@ wagtail==2.12.5
     #   wagtail-inventory
     #   wagtail-metadata
     #   wagtail-modeltranslation
-wagtail-airtable==0.1.6
+wagtail-airtable==0.2.1
     # via -r requirements.in
 wagtail-factories==2.0.1
     # via -r requirements.in
